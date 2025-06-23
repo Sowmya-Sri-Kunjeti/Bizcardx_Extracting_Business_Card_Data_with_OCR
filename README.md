@@ -20,10 +20,10 @@ review, modify and delete the stored information - all based on user authenticat
  
   ## Install dependencies
 
-  ! pip install easyocr
-  ! pip install streamlit
-  ! pip install streamlit_option_menu
-  ! pip install numpy
+  - ! pip install easyocr
+  - ! pip install streamlit
+  - ! pip install streamlit_option_menu
+  - ! pip install numpy
 
   ## Usage
 
